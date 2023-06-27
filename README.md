@@ -1,8 +1,8 @@
 # PythonProjectPAA2
-muhammad waliyuddin F55121009
+Muhammad Waliyuddin F55121009
 
-#Percobaan 1
-.
+-Percobaan 1-
+
 Dalam kode program di percobaan 1, terdapat fungsi `bubble_sort` untuk melakukan pengurutan menggunakan algoritma Bubble Sort, dan fungsi `insertion_sort` untuk melakukan pengurutan menggunakan algoritma Insertion Sort. Fungsi lainnya digunakan untuk menampilkan hasil iterasi, waktu komputasi, sebelum dan sesudah pengurutan, serta analisis algoritma.
 Untuk menjalankan program ini, pengguna dapat memilih opsi antara Bubble Sort (pilihan 1) atau Insertion Sort (pilihan 2) dan program akan menampilkan hasil sesuai dengan ketentuan yang diberikan.
 
@@ -16,10 +16,7 @@ Analisis algoritma untuk Insertion Sort:
 2. Best case: Jika elemen-elemen dalam array sudah terurut dengan benar, Insertion Sort tidak perlu melakukan perpindahan elemen dan hanya perlu memeriksa setiap elemen sekali. Kompleksitas waktu best case Insertion Sort adalah O(n).
 3. Average case: Rata-rata, Insertion Sort akan memerlukan waktu yang cukup cepat karena kompleksitas waktu rata-rata adalah O(n^2), tetapi memiliki konstanta yang lebih rendah dibandingkan Bubble Sort.
 
-
-
-#Percobaan 2
-.
+-Percobaan 2-
 Untuk melakukan analisis dari kode program tersebut, perlu diperhatikan beberapa faktor:
 
 1. Worst Case:
