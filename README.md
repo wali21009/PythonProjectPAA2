@@ -1,7 +1,8 @@
 # PythonProjectPAA2
 muhammad waliyuddin F55121009
 
-#Percobaan 1,
+#Percobaan 1
+.
 Dalam kode program di percobaan 1, terdapat fungsi `bubble_sort` untuk melakukan pengurutan menggunakan algoritma Bubble Sort, dan fungsi `insertion_sort` untuk melakukan pengurutan menggunakan algoritma Insertion Sort. Fungsi lainnya digunakan untuk menampilkan hasil iterasi, waktu komputasi, sebelum dan sesudah pengurutan, serta analisis algoritma.
 Untuk menjalankan program ini, pengguna dapat memilih opsi antara Bubble Sort (pilihan 1) atau Insertion Sort (pilihan 2) dan program akan menampilkan hasil sesuai dengan ketentuan yang diberikan.
 
@@ -17,7 +18,8 @@ Analisis algoritma untuk Insertion Sort:
 
 
 
-#Percobaan 2,
+#Percobaan 2
+.
 Untuk melakukan analisis dari kode program tersebut, perlu diperhatikan beberapa faktor:
 
 1. Worst Case:
