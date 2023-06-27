@@ -17,6 +17,7 @@ Analisis algoritma untuk Insertion Sort:
 3. Average case: Rata-rata, Insertion Sort akan memerlukan waktu yang cukup cepat karena kompleksitas waktu rata-rata adalah O(n^2), tetapi memiliki konstanta yang lebih rendah dibandingkan Bubble Sort.
 
 -Percobaan 2-
+
 Untuk melakukan analisis dari kode program tersebut, perlu diperhatikan beberapa faktor:
 
 1. Worst Case:
